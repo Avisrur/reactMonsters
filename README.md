@@ -9,3 +9,8 @@
 6. Using of classes VS functions for components
 7. Using react's component class as an extend and use his capabilities
 8. Understanding class methods(arrow methods vs decleared methods) in the aspect of context of "this"(arrow function auto binds the method to this)
+9. Using gh-pages (github pages for hosting small static websites)
+
+
+# Demo:
+https://avisrur.github.io/reactMonsters/
